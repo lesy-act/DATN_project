@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>off.png</file>
+        <file>on.png</file>
+        <file>home.png</file>
+        <file>house.png</file>
+        <file>output-onlinegiftools.gif</file>
+        <file>img/celsius.gif</file>
+        <file>img/clouds.gif</file>
+        <file>img/cloudy.gif</file>
+        <file>img/cloudy night.gif</file>
+        <file>img/cold.gif</file>
+        <file>img/Drop.gif</file>
+        <file>img/foggy.gif</file>
+        <file>img/hailstone.gif</file>
+        <file>img/hot.gif</file>
+        <file>img/night.gif</file>
+        <file>img/rain_2.gif</file>
+        <file>img/Rain.gif</file>
+        <file>img/rainbow.gif</file>
+        <file>img/rainy.gif</file>
+        <file>img/snow.gif</file>
+        <file>img/snow_2.gif</file>
+        <file>img/snow_3.gif</file>
+        <file>img/snow_4.gif</file>
+        <file>img/storm.gif</file>
+        <file>img/sun.gif</file>
+        <file>img/sunny.gif</file>
+        <file>img/sunrise.gif</file>
+        <file>img/temperature.gif</file>
+        <file>img/thunder.gif</file>
+        <file>img/wind.gif</file>
+        <file>img/wind_2.gif</file>
+        <file>img/output-onlinegiftools(1).gif</file>
+        <file>img/home_animation.gif</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>output-onlinegiftools.gif</file>
+    </qresource>
+</RCC>
